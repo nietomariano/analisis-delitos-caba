@@ -21,8 +21,8 @@ Concentración espacial de delitos
 
 Patrones temporales por día y franja horaria
 
-[![Heatmap temporal](images/heatmap_temporal.png)
-]
+![Heatmap temporal](images/heatmap_temporal.png)
+
 
 ---------------------------------------------------
 
