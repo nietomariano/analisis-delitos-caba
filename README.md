@@ -7,7 +7,7 @@ en la Ciudad de Buenos Aires utilizando datos abiertos.
 ---------------------------------------------------
 
 Mapa de delitos por barrio
-![Mapa de delitos](images/mapa_barrios.png)
+![Mapa de delitos](images/mapa_barrio.png)
 
 
 ---------------------------------------------------
