@@ -14,16 +14,17 @@ Mapa de delitos por barrio
 
 Concentración espacial de delitos
 
-[imagen]
+![Heatmap espacial](images/heatmap_espacial.png)
 
 ---------------------------------------------------
 
 Patrones temporales por día y franja horaria
 
-[imagen]
+[![Heatmap temporal](images/heatmap_temporal.png)
+]
 
 ---------------------------------------------------
 
 Evolución mensual de delitos
 
-[imagen]
+![Evolución temporal](images/evolucion_temporal.png)
